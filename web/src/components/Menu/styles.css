@@ -1,0 +1,48 @@
+.vertical-menu {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    padding: 0px 0px 0px 0px;
+  }
+
+  .vertical-menu img {
+    width: 180px;
+    height: 180px;
+    margin-top: 0px;
+    margin-right: 50px;
+    position: relative;
+    top: -60px;
+    left: 20px;
+
+   }
+
+   .vertical-menu .menu-item {
+    position: relative;
+    top: -60px;
+   }
+  
+  .vertical-menu .menu-item a {
+    text-align: start;
+    font-size: 17px;
+    color: #8C8C8C; 
+    display: block; 
+    padding: 15px; 
+    text-decoration: none;
+    font-weight: bold; 
+    margin-right: 10px;
+    margin-left: 10px;
+    border-radius: 10px;
+    height: 50px;
+    top:500px;
+  }
+  
+  .vertical-menu .menu-item a:hover {
+    color: #ffff;
+    transition-duration: 1s;
+  }
+  
+  .vertical-menu .menu-item a.active {
+    background-color: #282828; 
+    color: #fff;
+    transition-duration: 1s;
+  }
