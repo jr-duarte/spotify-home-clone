@@ -1,3 +1,9 @@
+
+<h1> Spotify Home Clne <h1>
+
+
+![page](https://user-images.githubusercontent.com/32375670/74268474-aacd6d00-4ce6-11ea-84d8-76904dd0fab2.png)
+
 # INSTRUÇÕES PARA USO
 
 1 - Verifique se o node está instalado em sua máquina através do comando:
