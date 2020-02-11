@@ -1,8 +1,7 @@
 
 # Spotify Home Clone
 
-
-![page](https://user-images.githubusercontent.com/32375670/74268474-aacd6d00-4ce6-11ea-84d8-76904dd0fab2.png)
+![Q1D3Uer3NN](https://user-images.githubusercontent.com/32375670/74269710-ab670300-4ce8-11ea-844c-d40b6e4b3d58.gif)
 
 # INSTRUÇÕES PARA USO
 
