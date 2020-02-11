@@ -9,7 +9,7 @@
   ```javascript
   node --version
   ```
- Observação: caso o mesmo não esteja instalo, será necessário a sua instalação, para isso basta seguir às instruções descritas no site oficial [https://nodejs.org/en/](https://nodejs.org/en/).
+ Observação: caso o mesmo não esteja instalado, será necessário a sua instalação, para isso basta seguir às instruções descritas no site oficial [https://nodejs.org/en/](https://nodejs.org/en/).
 
 2 - Realizar um git clone do projeto para baixar em sua máquina, através do comando:
   ```javascript
