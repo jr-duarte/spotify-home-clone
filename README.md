@@ -24,5 +24,5 @@
 ```javascript
   npm start
   ```
-Após esse comando já podemos acessar a página localmente através do endereço 
+Após esse comando já podemos acessar a página localmente através do endereço:
 [http://localhost:3000](http://localhost:3000)
